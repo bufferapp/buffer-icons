@@ -6,6 +6,13 @@ module.exports = function(grunt){
         dest: 'dist/fonts',
         destCss: 'dist/less',
         options: {
+          fontFilename: 'buffer-icons',
+          syntax: 'bootstrap',
+          templateOptions: {
+            baseClass: 'bi', // "buffer-icons"
+            classPrefix: 'bi-',
+            mixinPrefix: 'bi_',
+          }, 
           stylesheet: 'less'
         }
       }
@@ -14,6 +21,5 @@ module.exports = function(grunt){
 
   grunt.loadNpmTasks('grunt-webfont');
 
-  grunt.registerTask('build', ['webfont']);
-  grunt.registerTask('default', ['build']);
+  grunt.registerTask('default', ['webfont']);
 };
