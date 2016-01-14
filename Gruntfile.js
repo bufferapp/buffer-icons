@@ -3,7 +3,7 @@ module.exports = function(grunt){
     webfont: {
       icons: {
         src: 'src/icons/*.svg',
-        dest: 'dist/fonts',
+        dest: 'dist/webfonts',
         destCss: 'dist/less',
         options: {
           fontFilename: 'buffer-icons',
