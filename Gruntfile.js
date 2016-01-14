@@ -6,10 +6,11 @@ module.exports = function(grunt){
         dest: 'dist/webfonts',
         destCss: 'dist/less',
         options: {
+          font: 'buffer-icons',
           fontFilename: 'buffer-icons',
           syntax: 'bootstrap',
           templateOptions: {
-            baseClass: 'bi', // "buffer-icons"
+            baseClass: 'bi',
             classPrefix: 'bi-',
             mixinPrefix: 'bi_',
           }, 
