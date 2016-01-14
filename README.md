@@ -13,7 +13,7 @@ As such there is a couple installations required to generate your own fonts whic
 And install the rest of the dependencies by running `npm install`.
 
 Once all the dependencies are installed you simply add the `.svg` files you want
-to be included into the font into the 'src/icons' directory and runt the 'grunt build' command.
+to be included into the font into the 'src/icons' directory and run the `grunt` command.
 
 And thats it!
 
