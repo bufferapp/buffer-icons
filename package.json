@@ -1,19 +1,20 @@
 {
-  "name": "buffer-fonts",
+  "name": "buffer-icons",
   "version": "0.1.0",
-  "description": "Custom fonts for the Buffer application",
+  "description": "Custom icon fonts for the Buffer application",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bufferapp/buffer-fonts.git"
+    "url": "https://github.com/bufferapp/buffer-icons.git"
   },
   "author": "alex@bufferapp.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bufferapp/buffer-fonts/issues"
+    "url": "https://github.com/bufferapp/buffer-icons/issues"
   },
-  "homepage": "https://github.com/bufferapp/buffer-fonts",
+  "homepage": "https://github.com/bufferapp/buffer-icons",
   "devDependencies": {
     "grunt": "^0.4.5",
+    "grunt-aws-s3": "^0.14.4",
     "grunt-webfont": "^1.1.0"
   }
 }
