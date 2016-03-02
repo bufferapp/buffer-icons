@@ -18,7 +18,8 @@ module.exports = function(grunt){
             baseClass: 'bi',
             classPrefix: 'bi-',
             mixinPrefix: 'bi_',
-          }
+          },
+          htmlDemoTemplate: 'templates/demo.html'
         }
       }
     },
