@@ -18,3 +18,13 @@ to be included into the font into the 'src/icons' directory and run the `grunt` 
 And thats it!
 
 The font, less and html files can be found in the `dist` directory.
+
+## CDN
+
+With the `grunt upload` task, these files can be uploaded to s3 for versioned hosting.
+This can currently be done by adding valid AWS credentials to your environment vars
+and running the task.
+
+## TODO
+
+- Automated upload to s3 via Jenkins based on a tagged release githook.
