@@ -4,10 +4,10 @@
 
 @font-face {
 	font-family:"buffer-icons";
-	src:url("webfonts/buffer-icons.eot?3b256317ed54ee7a850692c1116d6986");
+	src:url("webfonts/buffer-icons.eot?795851caaa0dcd9af41b24cc0c37bc5b");
 	src:url("webfonts/buffer-icons.eot?#iefix") format("embedded-opentype"),
-		url("webfonts/buffer-icons.woff?3b256317ed54ee7a850692c1116d6986") format("woff"),
-		url("webfonts/buffer-icons.ttf?3b256317ed54ee7a850692c1116d6986") format("truetype");
+		url("webfonts/buffer-icons.woff?795851caaa0dcd9af41b24cc0c37bc5b") format("woff"),
+		url("webfonts/buffer-icons.ttf?795851caaa0dcd9af41b24cc0c37bc5b") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -59,25 +59,31 @@
 
 
 
-.bi-linkedin-circle:before {
+.bi-icon-circle-google-plus:before {
 	content:"\f105";
 }
 
 
 
-.bi-pinterest-circle:before {
+.bi-linkedin-circle:before {
 	content:"\f106";
 }
 
 
 
-.bi-twitter-circle:before {
+.bi-pinterest-circle:before {
 	content:"\f107";
 }
 
 
 
-.bi-x-circle:before {
+.bi-twitter-circle:before {
 	content:"\f108";
+}
+
+
+
+.bi-x-circle:before {
+	content:"\f109";
 }
 
