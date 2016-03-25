@@ -13,7 +13,7 @@ version of your choosing. See the
 available version numbers. Example for version `0.2.0`:
 
 ```html
-<link rel="stylesheet" href="//s3.amazonaws.com/buffer-icons/0.2.0/buffer-icons.css"/>`
+<link rel="stylesheet" href="//s3.amazonaws.com/buffer-icons/0.2.0/buffer-icons.css"/>
 ```
 
 Now you can use these icons. Adjust the `font-size` and `color` in your css to
