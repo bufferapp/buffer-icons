@@ -4,10 +4,10 @@
 
 @font-face {
 	font-family:"buffer-icons";
-	src:url("webfonts/buffer-icons.eot?795851caaa0dcd9af41b24cc0c37bc5b");
+	src:url("webfonts/buffer-icons.eot?13287f2d7d9400b26a3b26eccf9bd9d3");
 	src:url("webfonts/buffer-icons.eot?#iefix") format("embedded-opentype"),
-		url("webfonts/buffer-icons.woff?795851caaa0dcd9af41b24cc0c37bc5b") format("woff"),
-		url("webfonts/buffer-icons.ttf?795851caaa0dcd9af41b24cc0c37bc5b") format("truetype");
+		url("webfonts/buffer-icons.woff?13287f2d7d9400b26a3b26eccf9bd9d3") format("woff"),
+		url("webfonts/buffer-icons.ttf?13287f2d7d9400b26a3b26eccf9bd9d3") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -35,55 +35,175 @@
 /* Icons */
 
 
-.bi-appdotnet-circle:before {
+.bi-analytics:before {
 	content:"\f101";
 }
 
 
 
-.bi-check-circle:before {
+.bi-arrow-down:before {
 	content:"\f102";
 }
 
 
 
-.bi-facebook-circle:before {
+.bi-arrow-left:before {
 	content:"\f103";
 }
 
 
 
-.bi-google-circle:before {
+.bi-arrow-right:before {
 	content:"\f104";
 }
 
 
 
-.bi-icon-circle-google-plus:before {
+.bi-arrow-up:before {
 	content:"\f105";
 }
 
 
 
-.bi-linkedin-circle:before {
+.bi-buffer:before {
 	content:"\f106";
 }
 
 
 
-.bi-pinterest-circle:before {
+.bi-calendar:before {
 	content:"\f107";
 }
 
 
 
-.bi-twitter-circle:before {
+.bi-checkmark:before {
 	content:"\f108";
 }
 
 
 
-.bi-x-circle:before {
+.bi-circle-app-dot-net:before {
 	content:"\f109";
+}
+
+
+
+.bi-circle-facebook:before {
+	content:"\f10a";
+}
+
+
+
+.bi-circle-google-plus:before {
+	content:"\f10b";
+}
+
+
+
+.bi-circle-linkedin:before {
+	content:"\f10c";
+}
+
+
+
+.bi-circle-pinterest:before {
+	content:"\f10d";
+}
+
+
+
+.bi-circle-plus:before {
+	content:"\f10e";
+}
+
+
+
+.bi-circle-twitter:before {
+	content:"\f10f";
+}
+
+
+
+.bi-circle-x:before {
+	content:"\f110";
+}
+
+
+
+.bi-click:before {
+	content:"\f111";
+}
+
+
+
+.bi-comment:before {
+	content:"\f112";
+}
+
+
+
+.bi-edit:before {
+	content:"\f113";
+}
+
+
+
+.bi-export:before {
+	content:"\f114";
+}
+
+
+
+.bi-image:before {
+	content:"\f115";
+}
+
+
+
+.bi-like:before {
+	content:"\f116";
+}
+
+
+
+.bi-link:before {
+	content:"\f117";
+}
+
+
+
+.bi-plus:before {
+	content:"\f118";
+}
+
+
+
+.bi-pricing:before {
+	content:"\f119";
+}
+
+
+
+.bi-retweet:before {
+	content:"\f11a";
+}
+
+
+
+.bi-settings:before {
+	content:"\f11b";
+}
+
+
+
+.bi-view:before {
+	content:"\f11c";
+}
+
+
+
+.bi-x:before {
+	content:"\f11d";
 }
 
