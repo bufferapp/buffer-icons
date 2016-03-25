@@ -1,0 +1,24 @@
+/*
+  This file is used for default colors and extensions to the base set of classes
+  This should be pretty minimal so the end user can customize as they need!
+*/
+
+// Social network colors
+.bi-circle-twitter {
+  color: #55acee;
+}
+.bi-circle-facebook {
+  color: #3B5998;
+}
+.bi-circle-google-plus {
+  color: #dd4b39;
+}
+.bi-circle-linkedin {
+  color: #007bb6;
+}
+.bi-circle-pinterest {
+  color: #bd081c;
+}
+.bi-circle-app-dot-net {
+  color: #4a484c;
+}
