@@ -24,6 +24,18 @@ module.exports = function(grunt){
       }
     },
 
+    cssmin: {
+      options: {
+        // shorthandCompacting: false,
+        // roundingPrecision: -1
+      },
+      target: {
+        files: {
+          'dist/buffer-icons.css': ['dist/buffer-icons.css', 'src/extras.css']
+        }
+      }
+    },
+
     aws_s3: {
       options: {
         // Must include AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY env variables
@@ -50,9 +62,10 @@ module.exports = function(grunt){
   });
 
   grunt.loadNpmTasks('grunt-webfont');
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-aws-s3');
 
   grunt.registerTask('upload', ['aws_s3']);
 
-  grunt.registerTask('default', ['webfont']);
+  grunt.registerTask('default', ['webfont', 'cssmin']);
 };
