@@ -4,10 +4,10 @@
 
 @font-face {
 	font-family:"buffer-icons";
-	src:url("webfonts/buffer-icons.eot?13287f2d7d9400b26a3b26eccf9bd9d3");
+	src:url("webfonts/buffer-icons.eot?d63cd20a208c24e745aec14309fc599d");
 	src:url("webfonts/buffer-icons.eot?#iefix") format("embedded-opentype"),
-		url("webfonts/buffer-icons.woff?13287f2d7d9400b26a3b26eccf9bd9d3") format("woff"),
-		url("webfonts/buffer-icons.ttf?13287f2d7d9400b26a3b26eccf9bd9d3") format("truetype");
+		url("webfonts/buffer-icons.woff?d63cd20a208c24e745aec14309fc599d") format("woff"),
+		url("webfonts/buffer-icons.ttf?d63cd20a208c24e745aec14309fc599d") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
