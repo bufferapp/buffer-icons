@@ -5,6 +5,13 @@ var version = pkg.version;
 module.exports = function(grunt){
   grunt.initConfig({
 
+    clean: {
+      options: {
+        force: true // Is made necessary by a bug in some versions of Node when comparing paths
+      },
+      dist: ['dist/*']
+    },
+
     webfont: {
       icons: {
         src: 'src/icons/*.svg',
@@ -61,11 +68,12 @@ module.exports = function(grunt){
 
   });
 
+  grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-webfont');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-aws-s3');
 
   grunt.registerTask('upload', ['aws_s3']);
 
-  grunt.registerTask('default', ['webfont', 'cssmin']);
+  grunt.registerTask('default', ['clean', 'webfont', 'cssmin']);
 };
