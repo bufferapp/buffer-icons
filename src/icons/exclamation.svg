@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>exclamation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="buffer-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="exclamation" fill="#000000">
+            <g id="icon-circle-plus" transform="translate(6.000000, 2.000000)">
+                <circle id="Oval-41" cx="2" cy="10.5" r="1.5"></circle>
+                <path d="M0.226915479,1.81532383 C0.10159352,0.812748163 0.828802586,0 1.83610106,0 L2.16389894,0 C3.17794956,0 3.8986115,0.811107993 3.77308452,1.81532383 L3.12462877,7.00296986 C3.0557982,7.5536144 2.55613518,8 2,8 L2,8 C1.44771525,8 0.943370461,7.54696369 0.875371233,7.00296986 L0.226915479,1.81532383 Z" id="guide-copy-9"></path>
+            </g>
+        </g>
+    </g>
+</svg>
