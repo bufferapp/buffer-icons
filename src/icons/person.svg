@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>person</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="buffer-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="person" fill="#000000">
+            <g id="ic_person">
+                <circle id="Oval-35" cx="8" cy="4" r="4"></circle>
+                <path d="M0,12.5 C0,10.5670034 1.56327939,9 3.49149665,9 L12.5085033,9 C14.4368037,9 16,10.5709366 16,12.5 L16,16 L0,16 L0,12.5 L0,12.5 Z" id="Rectangle-18"></path>
+            </g>
+        </g>
+    </g>
+</svg>

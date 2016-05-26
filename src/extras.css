@@ -4,20 +4,23 @@
 */
 
 /* Social network colors */
-.bi-circle-twitter {
+.bi-circle-twitter, .bi-twitter {
   color: #55acee;
 }
-.bi-circle-facebook {
+.bi-circle-facebook, .bi-facebook {
   color: #3B5998;
 }
-.bi-circle-google {
+.bi-circle-google, .bi-google {
   color: #dd4b39;
 }
-.bi-circle-linkedin {
+.bi-circle-linkedin, .bi-linkedin {
   color: #007bb6;
 }
-.bi-circle-pinterest {
+.bi-circle-pinterest, .bi-pinterest {
   color: #bd081c;
+}
+.bi-circle-instagram, .bi-instagram {
+  color: #E53C5F;
 }
 .bi-circle-appdotnet {
   color: #4a484c;
