@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>lock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="buffer-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lock" fill="#000000">
+            <g id="ic_lock" transform="translate(1.000000, 0.000000)">
+                <path d="M0,7.99754465 C0,7.44661595 0.449948758,7 1.00684547,7 L12.9931545,7 C13.5492199,7 14,7.4463114 14,7.99754465 L14,16 L0,16 L0,7.99754465 L0,7.99754465 Z" id="Rectangle-18"></path>
+                <path d="M4,4.99668583 L4,4.99668583 L4,11.0033142 C4,12.655382 5.3446759,14 7,14 C8.65381968,14 10,12.6557554 10,11.0033142 L10,4.99668583 C10,3.34461797 8.6553241,2 7,2 C5.34618032,2 4,3.34424456 4,4.99668583 L4,4.99668583 L4,4.99668583 Z M2,4.99668583 C2,2.23709245 4.24419519,0 7,0 C9.76142375,0 12,2.24157855 12,4.99668583 L12,11.0033142 C12,13.7629076 9.75580481,16 7,16 C4.23857625,16 2,13.7584215 2,11.0033142 L2,4.99668583 L2,4.99668583 L2,4.99668583 Z" id="Rectangle-21"></path>
+            </g>
+        </g>
+    </g>
+</svg>

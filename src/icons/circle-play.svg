@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>circle-play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="buffer-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circle-play" fill="#000000">
+            <g id="icon-play">
+                <path d="M8,16 C12.418278,16 16,12.418278 16,8 C16,3.581722 12.418278,0 8,0 C3.581722,0 0,3.581722 0,8 C0,12.418278 3.581722,16 8,16 Z M6.38755779,11.166206 C5.89737316,11.4244744 5.5,11.1791199 5.5,10.6383299 L5.5,5.36013253 C5.5,4.81032621 5.89058062,4.57048377 6.38755779,4.83242594 L11.5095603,7.53208404 C11.999745,7.79044606 12.0065375,8.20567891 11.5095603,8.46752615 L6.38755779,11.166206 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
