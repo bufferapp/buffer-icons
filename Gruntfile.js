@@ -47,7 +47,7 @@ module.exports = function(grunt){
       options: {
         // Must include AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY env variables
         region: 'us-east-1',
-        bucket: 'buffer-icons',
+        bucket: 'icons.buffer.com',
         params: {
           CacheControl: 'public, max-age=31520626'
         },
