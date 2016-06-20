@@ -10,10 +10,10 @@ custom icon based webfonts for use across all devices.
 In your page's `<head>`, include the icon stylesheet from the CDN with the
 version of your choosing. See the
 [releases tab](https://github.com/bufferapp/buffer-icons/releases) for all
-available version numbers. Example for version `0.2.0`:
+available version numbers. Example for version `0.9.0`:
 
 ```html
-<link rel="stylesheet" href="//s3.amazonaws.com/buffer-icons/0.2.0/buffer-icons.css"/>
+<link rel="stylesheet" href="https://icons.buffer.com/0.9.0/buffer-icons.css" />
 ```
 
 Now you can use these icons. Adjust the `font-size` and `color` in your css to
