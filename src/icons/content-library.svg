@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>person</title>
+    <title>content-library</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="buffer-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="person" fill="#000000">
-            <path d="M8,10 C9.65685425,10 11,8.209139 11,6 C11,3.790861 9.65685425,2 8,2 C6.34314575,2 5,3.790861 5,6 C5,8.209139 6.34314575,10 8,10 Z M2,12.5 C2,11.6715729 2.67955446,11 3.49554521,11 L12.5044548,11 C13.3304216,11 14,11.6657972 14,12.5 L14,14 L2,14 L2,12.5 Z" id="icon-person"></path>
+        <g id="content-library" fill="#000000">
+            <path d="M1.6,3.2 L0,3.2 L0,16 L12.8,16 L12.8,14.4 L1.6,14.4 L1.6,3.2 Z M3.2,0 L16,0 L16,12.8 L3.2,12.8 L3.2,0 Z" id="icon-content-library"></path>
         </g>
     </g>
 </svg>
