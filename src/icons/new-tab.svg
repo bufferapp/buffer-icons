@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>new-tab</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="new-tab" fill="#000000">
+            <g id="Page-1">
+                <g id="new-tab">
+                    <g id="Page-1">
+                        <g id="Style-Guide">
+                            <g id="New-Tab">
+                                <g id="Group">
+                                    <g id="Rectangle-4" transform="translate(0.000000, 4.000000)">
+                                        <g id="path-1-Clipped">
+                                            <path d="M15.0046024,0 L1.99079514,0 C0.898212381,0 0,0.892771196 0,1.99406028 L0,14.0059397 C0,15.1054862 0.891309342,16 1.99079514,16 L18.0092049,16 C19.1017876,16 20,15.1072288 20,14.0059397 L20,4.99703014 L20,8 L18,8 L18,14 L2,14 L2,2 L12,2 L12,0 L15.0046024,0 Z" id="Combined-Shape"></path>
+                                        </g>
+                                    </g>
+                                    <g id="icon-plus" transform="translate(14.000000, 0.000000)" fill-rule="nonzero">
+                                        <rect id="Rectangle-5" x="4" y="0" width="2" height="10" rx="1"></rect>
+                                        <rect id="Rectangle-6" x="0" y="4" width="10" height="2" rx="1"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
