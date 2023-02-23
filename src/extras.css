@@ -22,6 +22,21 @@
 .bi-circle-instagram, .bi-instagram {
   color: #E53C5F;
 }
+.bi-circle-youtube, .bi-youtube {
+  color: #FF0000;
+}
+.bi-circle-tiktok, .bi-tiktok {
+  color: #000000;
+}
+.bi-circle-mastodon, .bi-mastodon {
+  color: #6364FF;
+}
+.bi-circle-googlebusiness, .bi-googlebusiness {
+  color: #4A7DE2;
+}
+.bi-circle-startPage, .bi-startPage {
+  color: #2c4bff;
+}
 .bi-circle-appdotnet {
   color: #4a484c;
 }
